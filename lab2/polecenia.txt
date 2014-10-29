@@ -1,0 +1,16 @@
+Zad1:
+Napisz program, ktory dla danej wartosci obliczy wartosci y = 2^x + 1/x, z = 2x +x^1/2.
+Jezeli y lub z nie istnieje, to komunikat.
+program porownuje te wartosci
+x = 2
+y = 4,5
+z = 5,4
+z jest wieksze niz y
+
+Zad2:
+Napisz program, ktory dla podanej kwoty dochodu rocznego oblicz nalezny podatek
+
+od    do    podatek
+0     44490 19%     podstawa -586.85
+44490 85528 +30%    nadwyzki ponad 44490
+85528 ----- +40%    nadwyzki ponad 85528
